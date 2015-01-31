@@ -29,11 +29,20 @@ form {
   font-weight: 800;
 }
 
+/* Alex: use translate3d() to force hardware acceleration*/
 .mover {
   position: fixed;
   width: 256px;
   z-index: -1;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
 }
+
+/*#randomPizzas {
+  transform: translate3d(0, 0, 0);
+}*/
 
 .randomPizzaContainer {
   float: left;

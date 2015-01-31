@@ -12,9 +12,15 @@ I optimized index.html, pizza.html and views/css/style.css with comments that st
 
 ###Reference links:
 https://developers.google.com/web/fundamentals/performance/
+
 http://addyosmani.com/blog/making-a-site-jank-free/
+
 http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
+
 http://www.html5rocks.com/en/tutorials/speed/scrolling/
+
 http://www.smashingmagazine.com/2013/06/10/pinterest-paint-performance-case-study/
+
 http://blog.teamtreehouse.com/increase-your-sites-performance-with-hardware-accelerated-css
+
 http://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/
